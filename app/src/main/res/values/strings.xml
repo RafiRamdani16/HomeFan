@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeFan</string>
+    <string name="play">play_fan</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="todo">TODO</string>
+    <string name="speed_seek">SPEED</string>
+    <string name="SWITCH">switch</string>
+    <string name="speed">speed</string>
+    <string name="lights">Lights</string>
+    <string name="speed_controller">Speed Controller</string>
+</resources>
